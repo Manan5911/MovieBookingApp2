@@ -1,2 +1,2 @@
 # MovieBookingApp2
-This is a assignment for the subject MSBA
+This is an assignment for the subject MSBA. Please refer to the master branch.
